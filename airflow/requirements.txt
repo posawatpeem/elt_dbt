@@ -1,0 +1,22 @@
+dbt-postgres
+psycopg2-binary
+
+astronomer-cosmos==1.10.1
+# airflow-code-editor
+airflow-code-editor==8.0.0a2
+black
+isort
+fs-s3fs
+fs-gcsfs
+jupysql
+ploomber-engine
+
+apache-airflow-providers-jdbc
+# apache-airflow-providers-odbc
+apache-airflow-providers-amazon
+# apache-airflow-providers-discord
+apache-airflow-providers-oracle
+apache-airflow-providers-postgres
+apache-airflow-providers-vertica
+# apache-airflow-providers-google
+apache-airflow-providers-common-sql
