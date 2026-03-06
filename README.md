@@ -114,4 +114,3 @@ Specific service:
 
     1. docker compose run airflow-init
     2. docker compose up
-# elt_dbt
